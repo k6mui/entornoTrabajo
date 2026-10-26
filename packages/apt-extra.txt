@@ -1,0 +1,24 @@
+# Paquetes adicionales necesarios para compilar/configurar el entorno
+# (dependencias que en la máquina original se instalaron como automáticas)
+ninja-build
+git
+curl
+wget
+zsh
+xdg-user-dirs
+fontconfig
+libnotify-bin
+x11-xserver-utils
+wmname
+fzf
+xsel
+python3-pip
+powershell
+cherrytree
+burpsuite
+wireshark
+wfuzz
+firefox-esr
+open-vm-tools-desktop
+zsh-syntax-highlighting
+zsh-autosuggestions

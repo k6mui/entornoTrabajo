@@ -1,0 +1,6 @@
+# Nunca subir claves ni datos personales
+*.ovpn
+id_*
+*.pem
+*.key
+.zsh_history
